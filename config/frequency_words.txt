@@ -1,7 +1,3 @@
-iphone
-ipad
-mac
-ios
 android
 
 ai
